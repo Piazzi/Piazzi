@@ -3,9 +3,7 @@
 
 Hello there 👋
 
-🌎 Brazilian
-
-💻 CS Student
+👨‍🎓 CS Student / 💻 Developer / 🎮 Game Designer in the free time
 
 🦉 The developer of: https://onto4alleditor.com/en
 
