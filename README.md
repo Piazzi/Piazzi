@@ -1,8 +1,6 @@
 
 ## About me
 
-Hello there 👋
-
 👨‍🎓 CS Student / 💻 Developer / 🎮 Game Designer in the free time
 
 🦉 The developer of: https://onto4alleditor.com/en
@@ -36,7 +34,7 @@ Can i help you with something? <a href="https://stackoverflow.com/users/10618375
 ## 📫 How to reach me: 
 
 <a target="_blank" href="mailto:lpiazzi26@gmail.com?subject=[GitHub]">
-    <img alt="Gmail badge" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Gmail badge" src="https://img.shields.io/badge/lpiazzi26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 
