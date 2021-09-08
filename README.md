@@ -5,11 +5,8 @@
 
 🦉 The developer of: https://onto4alleditor.com/en
 
-Checkout my songs:  <a href="https://open.spotify.com/artist/4139IryR7j3VPzLVrnRyz5?si=sSyjEHq_Q5m7y0DJkq8JbQ&dl_branch=1"> 
-<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
-</a>
 
-and the development of my first game:  <a href="https://www.instagram.com/manedwolfent/"> 
+Checkout the development of my first game:  <a href="https://www.instagram.com/manedwolfent/"> 
  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
