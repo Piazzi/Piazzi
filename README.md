@@ -8,6 +8,8 @@
 Can i help you with something? 
 <br/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=piazzi" />
+
 <!--
 ## Knowledge
 
