@@ -1,7 +1,7 @@
 
 ## About me
 
-👨‍🎓 CS Student / 💻 Software Engineer / 🎮 Game Designer in the free time
+💻 Software Engineer / 🎮 Game Designer in the free time
 
 🦉 The developer of: https://onto4alleditor.com/en
 
