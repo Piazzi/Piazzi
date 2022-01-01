@@ -8,7 +8,7 @@
 Can i help you with something? 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=piazzi" />
+<img src="https://github-readme-stats.vercel.app/api?username=piazzi&theme=calm" />
 
 <!--
 ## Knowledge
