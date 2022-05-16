@@ -3,7 +3,7 @@
 
 💻 Software Engineer / 🎮 Game Designer in the free time
 
-🦉 The developer of: https://onto4alleditor.com/en
+🦉 The developer of: https://onto4all.com/en
 
 🧙‍♂️ Can i help you with something? 
 <br/>
