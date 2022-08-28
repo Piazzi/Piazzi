@@ -1,12 +1,13 @@
 
 ## About me
 
-💻 Software Engineer / 🎮 Game Designer in the free time
+💻 Full-time Software Engineer / :notes: Musician and 🎮 Game Designer when I can
 
 🦉 The developer of: https://onto4all.com/en
 
-🧙‍♂️ Can i help you with something? 
+Can i help you with something? I'm always at stackoverflow :)
 <br/>
+
 
 <img src="https://github-readme-stats.vercel.app/api?username=piazzi&theme=calm" />
 
@@ -17,7 +18,7 @@
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
 -->
 
-## How to reach me 
+## :mailbox_with_no_mail: How to reach me 
 
 
 <a target="_blank" href="mailto:lpiazzi26@gmail.com?subject=[GitHub]">
@@ -32,3 +33,5 @@
 <a href="https://stackoverflow.com/users/10618375/piazzi"> 
  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+<br/>
+
