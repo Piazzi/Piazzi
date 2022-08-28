@@ -8,8 +8,9 @@
 Can i help you with something? I'm always at stackoverflow :)
 <br/>
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=piazzi&theme=calm" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piazzi&hide=batchfile&layout=compact&theme=calm)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 ## Knowledge
