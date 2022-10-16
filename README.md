@@ -19,12 +19,6 @@ Can i help you with something? I'm always at stackoverflow :)
 
 ## :mailbox_with_no_mail: How to reach me 
 
-
-<a target="_blank" href="mailto:lpiazzi26@gmail.com?subject=[GitHub]">
-    <img alt="Gmail badge" src="https://img.shields.io/badge/lpiazzi26@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-
 <a href="https://www.linkedin.com/in/lucas-piazzi/"> 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
