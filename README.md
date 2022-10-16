@@ -1,8 +1,6 @@
 
 ## About me
 
-💻 Full-time Software Engineer at Nubank / :notes: Musician and 🎮 Game Designer when I can
-
 🦉 The developer of: https://onto4all.com/en
 
 Can i help you with something? I'm always at stackoverflow :)
