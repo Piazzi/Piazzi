@@ -1,9 +1,10 @@
-
 ## About me
 
-🦉 The developer of: https://onto4all.com/en
+Full-time Software Engineer 
 
-Can i help you with something? I'm always at stackoverflow :)
+The developer behind <a href="https://onto4all.com/en">Onto4ALL</a> 🦉 
+
+Can I help you with something? I'm always at stackoverflow. 
 <br/>
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=piazzi&theme=calm" />
@@ -17,7 +18,7 @@ Can i help you with something? I'm always at stackoverflow :)
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" />
 -->
 
-## :mailbox_with_no_mail: How to reach me 
+##  How to reach me 
 
 <a href="https://www.linkedin.com/in/lucas-piazzi/"> 
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
