@@ -25,5 +25,10 @@ Can I help you with something? I'm always at stackoverflow.
 <a href="https://stackoverflow.com/users/10618375/piazzi"> 
  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" />
 </a>
+
+<a href="https://open.spotify.com/artist/4139IryR7j3VPzLVrnRyz5?si=dZfUJUpvRTiKo00h78NU7g"> 
+ <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
+</a>
+
 <br/>
 
